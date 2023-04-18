@@ -3,7 +3,7 @@ Made a python file to input some variables in command line to create required 3d
 
 Hey folks , I have created this amazing mini project where you can easily define and make a 3d model of earpods just by using a few command line arguments.
 
-1. The height of vertical part of earpods -> command line input as  --height.
+1. The height of vertical part of earpods -> command line input as  --length.
 2. The radius of silicone earbud and connecting part -> command line input as --radius.
 3. The width of connecting part -> command line input as --width.
 4. The thickness of silicone earbud -> command line input as --bud-thickness
